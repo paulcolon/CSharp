@@ -1,6 +1,6 @@
-/Users/paulcolon/GitHub/C#/ff/bin/Debug/ff.exe
-/Users/paulcolon/GitHub/C#/ff/bin/Debug/ff.pdb
-/Users/paulcolon/GitHub/C#/ff/obj/Debug/ff.csprojResolveAssemblyReference.cache
-/Users/paulcolon/GitHub/C#/ff/obj/Debug/ff.csproj.CoreCompileInputs.cache
-/Users/paulcolon/GitHub/C#/ff/obj/Debug/ff.exe
-/Users/paulcolon/GitHub/C#/ff/obj/Debug/ff.pdb
+/Users/paulcolon/GitHub/CSharp/ff/bin/Debug/ff.exe
+/Users/paulcolon/GitHub/CSharp/ff/bin/Debug/ff.pdb
+/Users/paulcolon/GitHub/CSharp/ff/obj/Debug/ff.csprojResolveAssemblyReference.cache
+/Users/paulcolon/GitHub/CSharp/ff/obj/Debug/ff.csproj.CoreCompileInputs.cache
+/Users/paulcolon/GitHub/CSharp/ff/obj/Debug/ff.exe
+/Users/paulcolon/GitHub/CSharp/ff/obj/Debug/ff.pdb
