@@ -1,0 +1,6 @@
+/Users/paulcolon/GitHub/C#/FitnessFrog/bin/Debug/FitnessFrog.exe
+/Users/paulcolon/GitHub/C#/FitnessFrog/bin/Debug/FitnessFrog.pdb
+/Users/paulcolon/GitHub/C#/FitnessFrog/obj/Debug/FitnessFrog.csprojResolveAssemblyReference.cache
+/Users/paulcolon/GitHub/C#/FitnessFrog/obj/Debug/FitnessFrog.csproj.CoreCompileInputs.cache
+/Users/paulcolon/GitHub/C#/FitnessFrog/obj/Debug/FitnessFrog.exe
+/Users/paulcolon/GitHub/C#/FitnessFrog/obj/Debug/FitnessFrog.pdb

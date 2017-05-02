@@ -1,0 +1,6 @@
+/Users/paulcolon/GitHub/C#/Hello World/bin/Debug/HelloWorld.exe
+/Users/paulcolon/GitHub/C#/Hello World/bin/Debug/HelloWorld.pdb
+/Users/paulcolon/GitHub/C#/Hello World/obj/Debug/Hello World.csprojResolveAssemblyReference.cache
+/Users/paulcolon/GitHub/C#/Hello World/obj/Debug/Hello World.csproj.CoreCompileInputs.cache
+/Users/paulcolon/GitHub/C#/Hello World/obj/Debug/HelloWorld.exe
+/Users/paulcolon/GitHub/C#/Hello World/obj/Debug/HelloWorld.pdb
