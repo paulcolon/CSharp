@@ -13,6 +13,7 @@ namespace FitnessFrog
 
             // Add minutes exercised to total
             // Display total minutes exercised to the screen
+            Console.WriteLine("You've enterd" + entry + "minutes");
             // Repeat until the user quits
 
         }
