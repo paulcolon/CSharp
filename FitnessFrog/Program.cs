@@ -10,11 +10,13 @@ namespace FitnessFrog
             var runningTotal = 0;
             // Prompt the user for minutes exercised
             Console.Write("Enter how many minutes you exercised");
-            var entry  = Console.ReadLine();
+            int entry  = Console.ReadLine();
+            int minutes = int.Parse(entry);
+            runningTotal = runningTotal + minutes;
 
             // Add minutes exercised to total
             // Display total minutes exercised to the screen
-            Console.WriteLine("You've enterd" + entry + "minutes");
+            Console.WriteLine("You've enterd" + runningTotal + "minutes");
             // Repeat until the user quits
 
         }
