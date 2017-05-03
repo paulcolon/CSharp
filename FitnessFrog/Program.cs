@@ -7,6 +7,7 @@ namespace FitnessFrog
     {
         public static void Main(string[] args)
         {
+            var runningTotal = 0;
             // Prompt the user for minutes exercised
             Console.Write("Enter how many minutes you exercised");
             var entry  = Console.ReadLine();
