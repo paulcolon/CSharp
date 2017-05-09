@@ -26,6 +26,12 @@ namespace FitnessFrog
 
                     var minutes = int.Parse(entry);
 
+                    if (minutes <= 0)
+                    {
+                        Console.WriteLine(minutes + "is not an acceptable value");
+                        continue;
+                    }
+
                     if (minutes <= 10)
                     {
                         Console.WriteLine("Better than nothing, am I right?");
