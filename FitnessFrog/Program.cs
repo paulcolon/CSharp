@@ -14,15 +14,26 @@ namespace FitnessFrog
             while (keepGoing)
             {
                 // Prompt the user for minutes exercised
-                Console.Write("Enter how many minutes you exercised");
-                var entry = Console.ReadLine();
-                var minutes = int.Parse(entry);
-                runningTotal = runningTotal + minutes;
+                Console.Write("Enter how many minutes you exercised or type \"quit\" to exit");
+                string entry = Console.ReadLine();
 
-                // Add minutes exercised to total
-                // Display total minutes exercised to the screen
-                Console.WriteLine("You've enterd" + runningTotal + "minutes");
-                // Repeat until the user quits
+                if (entry == "quit")
+                {
+                    keepGoing = false;
+                }
+                else
+                {
+
+                    var minutes = int.Parse(entry);
+                    runningTotal = runningTotal + minutes;
+
+                    // Add minutes exercised to total
+                    // Display total minutes exercised to the screen
+                    Console.WriteLine("You've enterd" + runningTotal + "minutes");
+
+                    // Repeat until the user quits
+                }
+                Console.WriteLine("Goodbye");
             }
         }
     }
