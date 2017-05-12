@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace objects0
+namespace TreehouseDefense
 {
-    internal class Program
+    class Tower
     {
-        public static void Main(string[] args)
-        {
         }
-    }
+
 }
