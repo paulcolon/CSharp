@@ -6,13 +6,13 @@
 }
 
 <div class="jumbotron">
-  <h1>Whats Your Nmae</h1>
+  <h1>Whats Your Name</h1>
 
-  @using (var form = html.BeginForm("SayHello", "Home"))
+  @using (var form = Html.BeginForm("SayHello", "Home"))
   {
-    <p>First Name : @html.TextBoxFor(x => x.FirstName)</p>
+    <p>First Name : @Html.TextBoxFor(x => x.FirstName)</p>
     <br />
-    <p> Last Name : @html.TextBoxFor(x => x.LastName)</p>
+    <p> Last Name : @Html.TextBoxFor(x => x.LastName)</p>
   }
 
 </div>

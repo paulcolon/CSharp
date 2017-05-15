@@ -12,7 +12,7 @@ namespace ClassMVC.Controllers
     {
         public ActionResult Index()
         {
-            Person person = new Person {FirstName = "Paul", LastName = "Colon"};
+            Person person = new Person { FirstName = "Paul", LastName = "Colon"};
             return View(person);
         }
 
