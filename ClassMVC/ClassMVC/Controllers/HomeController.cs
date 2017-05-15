@@ -16,18 +16,13 @@ namespace ClassMVC.Controllers
             return View(person);
         }
 
-        public ActionResult About()
+        public ActionResult SayHello(Person person)
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+            person.FirstName = person.FirstName.ToUpper();
+            person.LastName = person.LastName.ToUpper();
+            return View(person);
         }
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
 
-            return View();
-        }
     }
 }
