@@ -1,0 +1,2 @@
+/Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.csprojResolveAssemblyReference.cache
+/Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.csproj.CoreCompileInputs.cache

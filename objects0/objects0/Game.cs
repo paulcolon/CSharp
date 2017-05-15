@@ -4,7 +4,7 @@
     {
         public void Main()
         {
-            Map map = new Map();
+            Maps map = new Map();
             map.Width = 8;
             map.Height = 5;
 
