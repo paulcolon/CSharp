@@ -43,7 +43,7 @@
   <ItemGroup>
     <Compile Include="Game.cs" />
     <Compile Include="Invader.cs" />
-    <Compile Include="Maps.cs" />
+    <Compile Include="Map.cs" />
     <Compile Include="Path.cs" />
     <Compile Include="Tower.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
