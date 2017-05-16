@@ -2,9 +2,10 @@
 {
     class Game
     {
-        public void Main()
+        public static void Main()
         {
             Map map = new Map();
+
             map.Width = 8;
             map.Height = 5;
 
