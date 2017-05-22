@@ -1,0 +1,25 @@
+@model List<ClassMVC.Models.Person>
+
+@{
+    ViewBag.Title = "Show Me A LIst";
+}
+
+<p>>Here's Everybody:</p>
+<table class="table table-striped">
+
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+    </tr>
+
+    @foreach (var person in Model)
+    {
+        <tr>
+            <td>@person.FirstName</td>
+            <td>@person.LastName</td>
+        </tr>
+    }
+</table>
+
+
+

@@ -18,9 +18,33 @@ namespace ClassMVC.Controllers
 
         public ActionResult SayHello(Person person)
         {
-            person.FirstName = person.FirstName.ToUpper();
-            person.LastName = person.LastName.ToUpper();
+            PersonRepository.AddPerson(person);
             return View(person);
+        }
+
+        public ActionResult ShowMeAList()
+        {
+            return View("ShowMeAList", PersonRepository.GetAllPersons());
+        }
+
+        public static class PersonRepository
+        {
+            private static List<Person> list = new List<Person>()
+            {
+                new Person() {FirstName = "Luke", LastName = "Skywalker"},
+                new Person() {FirstName = "Lela", LastName = "Organa"},
+                new Person() {FirstName = "Han", LastName = "Solo"}
+            };
+
+            public static List<Person> GetAllPersons()
+            {
+                return list;
+            }
+
+            public static void AddPerson(Person person)
+            {
+                list.Add(person);
+            }
         }
 
 
