@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace TreehouseDefense
 {
@@ -8,14 +9,14 @@ namespace TreehouseDefense
         {
             Map map = new Map(8 , 5);
 
-            Point x  = new MapLocation(4, 2);
-
-            Point p = x;
-
-            map.OnMap(new MapLocation(0, 0));
-
-
-           Console.WriteLine(x.DistanceTo(5, 5));
+            try
+            {
+                MapLocation mapLocation = new MapLocation(20, 20, map);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("That map locationis is not on the map!");
+            }
         }
     }
 }
