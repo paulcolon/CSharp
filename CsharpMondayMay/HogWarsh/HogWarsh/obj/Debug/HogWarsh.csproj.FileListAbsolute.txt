@@ -1,0 +1,2 @@
+/Users/paulcolon/GitHub/CSharp/CsharpMondayMay/HogWarsh/HogWarsh/obj/Debug/HogWarsh.csprojResolveAssemblyReference.cache
+/Users/paulcolon/GitHub/CSharp/CsharpMondayMay/HogWarsh/HogWarsh/obj/Debug/HogWarsh.csproj.CoreCompileInputs.cache
