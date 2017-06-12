@@ -5,14 +5,16 @@ namespace TreehouseDefense
         class TreehouseDefenseException : System.Exception
     }
 
-    public TreehouseDefenseException(string message) : base (message)
+    public class TreehouseDefenseException(string message) : base (message)
     {
     
     }
     
 
-    class OutOfBoundsException : TreehouseDefenseException
+    public class OutOfBoundsException : TreehouseDefenseException
 {
+    
+    
     public OutOfBoundsException(string message) : base(message)
     {
         
