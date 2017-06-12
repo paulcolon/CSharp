@@ -1,6 +1,6 @@
 /Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.csprojResolveAssemblyReference.cache
 /Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.csproj.CoreCompileInputs.cache
 /Users/paulcolon/GitHub/CSharp/objects0/objects0/bin/Debug/objects0.exe
-/Users/paulcolon/GitHub/CSharp/objects0/objects0/bin/Debug/objects0.pdb
 /Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.exe
 /Users/paulcolon/GitHub/CSharp/objects0/objects0/obj/Debug/objects0.pdb
+/Users/paulcolon/GitHub/CSharp/objects0/objects0/bin/Debug//objects0.pdb
