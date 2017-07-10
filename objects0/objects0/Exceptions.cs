@@ -2,7 +2,7 @@ namespace TreehouseDefense
 {
     public class Exceptions
     {
-        class TreehouseDefenseException : System.Exception
+        class TreehouseDefenseException : System.Exception 
     }
 
     public class TreehouseDefenseException(string message) : base (message)

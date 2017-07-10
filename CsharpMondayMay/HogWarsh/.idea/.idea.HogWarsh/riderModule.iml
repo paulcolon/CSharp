@@ -3,17 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
       <sourceFolder url="file://$MODULE_DIR$/../../Data/HogWarsh.Data.sqlproj" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../HogWarsh" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.Scripting.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CodeAnalysis.VisualBasic.dll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../packages/Microsoft.Net.Compilers.1.3.2/tools/Microsoft.CSharp.Core.targets" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../HogWarsh/bin" />
-      <excludeFolder url="file://$MODULE_DIR$/../../HogWarsh/obj" />
-      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+      <sourceFolder url="file://$MODULE_DIR$/../../HogWarsh/HogWarsh.csproj" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
