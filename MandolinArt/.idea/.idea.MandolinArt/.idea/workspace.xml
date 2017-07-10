@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d4a527e-e9e8-4951-9e5f-9b3d4dcfe7ee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.WebApplicationComicBookProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplicationComicBookProject/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../objects0/.idea/.idea.objects0/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../objects0/.idea/.idea.objects0/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="87800a7a-faa1-494c-ba29-5abd95388551" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,34 +13,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebApplicationComicBookProject/Controllers/HomeController.cs">
+        <entry file="file://$PROJECT_DIR$/MandolinArt/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
-                <marker date="1499688224000" expanded="false" signature="6:133" ph="..." />
-                <marker date="1499688224000" expanded="true" signature="187:623" ph="{...}" />
-                <marker date="1499688224000" expanded="true" signature="234:621" ph="{...}" />
-                <marker date="1499688224000" expanded="true" signature="276:323" ph="{...}" />
-                <marker date="1499688224000" expanded="true" signature="360:476" ph="{...}" />
-                <marker date="1499688224000" expanded="true" signature="515:615" ph="{...}" />
+                <marker date="1499704710000" expanded="false" signature="6:133" ph="..." />
+                <marker date="1499704710000" expanded="true" signature="168:604" ph="{...}" />
+                <marker date="1499704710000" expanded="true" signature="215:602" ph="{...}" />
+                <marker date="1499704710000" expanded="true" signature="257:304" ph="{...}" />
+                <marker date="1499704710000" expanded="true" signature="341:457" ph="{...}" />
+                <marker date="1499704710000" expanded="true" signature="496:596" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/WebApplicationComicBookProject/Controllers/ComicBook.cs" />
-        <option value="$PROJECT_DIR$/WebApplicationComicBookProject/Controllers/ComicBooksController.cs" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -52,10 +38,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="x" value="10" />
+    <option name="y" value="23" />
+    <option name="width" value="1125" />
+    <option name="height" value="701" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -79,11 +66,11 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationComicBookProject (1 project)" />
+              <option name="myItemId" value="MandolinArt (1 project)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationComicBookProject" />
+              <option name="myItemId" value="MandolinArt" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -93,11 +80,11 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationComicBookProject (1 project)" />
+              <option name="myItemId" value="MandolinArt (1 project)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationComicBookProject" />
+              <option name="myItemId" value="MandolinArt" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -114,12 +101,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
-    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
-    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
-    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
-    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,61 +127,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebApplicationComicBookProject/WebApplicationComicBookProject.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MandolinArt/MandolinArt.csproj" />
       <option name="PROJECT_KIND" value="Web" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
       <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
       <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebApplicationComicBookProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MandolinArt" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -215,18 +148,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d4a527e-e9e8-4951-9e5f-9b3d4dcfe7ee" name="Default" comment="" />
-      <created>1499688145466</created>
+      <changelist id="87800a7a-faa1-494c-ba29-5abd95388551" name="Default" comment="" />
+      <created>1499704686658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1499688145466</updated>
-      <workItem from="1499688172947" duration="5213000" />
-      <workItem from="1499704378711" duration="138000" />
+      <updated>1499704686658</updated>
+      <workItem from="1499704688556" duration="322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5351000" />
+    <option name="totallyTimeSpent" value="322000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,18 +170,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="10" y="23" width="1125" height="701" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5069252" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.4930748" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22294022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25484765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -275,17 +207,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebApplicationComicBookProject/Controllers/HomeController.cs">
+    <entry file="file://$PROJECT_DIR$/MandolinArt/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
-            <marker date="1499688224000" expanded="false" signature="6:133" ph="..." />
-            <marker date="1499688224000" expanded="true" signature="187:623" ph="{...}" />
-            <marker date="1499688224000" expanded="true" signature="234:621" ph="{...}" />
-            <marker date="1499688224000" expanded="true" signature="276:323" ph="{...}" />
-            <marker date="1499688224000" expanded="true" signature="360:476" ph="{...}" />
-            <marker date="1499688224000" expanded="true" signature="515:615" ph="{...}" />
+            <marker date="1499704710000" expanded="false" signature="6:133" ph="..." />
+            <marker date="1499704710000" expanded="true" signature="168:604" ph="{...}" />
+            <marker date="1499704710000" expanded="true" signature="215:602" ph="{...}" />
+            <marker date="1499704710000" expanded="true" signature="257:304" ph="{...}" />
+            <marker date="1499704710000" expanded="true" signature="341:457" ph="{...}" />
+            <marker date="1499704710000" expanded="true" signature="496:596" ph="{...}" />
           </folding>
         </state>
       </provider>
