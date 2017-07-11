@@ -25,3 +25,9 @@
 /Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/obj/Debug/MandolinArt.csproj.CoreCompileInputs.cache
 /Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/obj/Debug/MandolinArt.dll
 /Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/obj/Debug/MandolinArt.pdb
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/MandolinArt.dll.config
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/EntityFramework.dll
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/EntityFramework.SqlServer.dll
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/System.Data.SQLite.EF6.dll
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/EntityFramework.xml
+/Users/paulcolon/GitHub/CSharp/MandolinArt/MandolinArt/bin/EntityFramework.SqlServer.xml
